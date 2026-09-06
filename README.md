@@ -7,7 +7,9 @@ Repositori ini adalah *production build* statis untuk situs resmi **La Madre Cof
 
 ## 🌟 Tentang Situs
 
-* **Kategori**: Specialty Coffee Roastery, WFC Sanctuary & Comfort Food
+* **Kategori**: Specialty Coffee Roastery, WFC Sanctuary & Comfort Kitchen
+* **Slogan**: Extraction Beyond Expectation
 * **Lokasi**: Jl. Jati Baru No.85, RT.001 RW.004, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361
-* **Fitur**: Fast Wi-Fi, Colokan Listrik Tiap Meja, Dual-Zone (Indoor AC non-smoking & Outdoor Garden), Ramah Anak, In-house Roastery
-* **Performa**: Zero-JS Architecture, skor Lighthouse mobile ≥ 95, teroptimasi Local SEO & Google Rich Results.
+* **Kontak Reservasi**: WhatsApp +62 812-1300-9440
+* **Official Store**: Tokopedia (lamadrecoffee) | GoFood Delivery
+* **Performa**: Zero-JS Architecture (< 3 KB), Skor Lighthouse mobile ≥ 95, Schema.org `CafeOrCoffeeShop` JSON-LD.
