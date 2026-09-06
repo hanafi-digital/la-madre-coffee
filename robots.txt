@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanafi-digital.github.io/la-madre-coffee/sitemap-index.xml
